@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I work as a software engineer who is more focused on frontend engineering. I have 8+ years of experience with front-end experience and a passion for responsive website design. I am skilled in Web Development using JavaScript as a primary language and using its frameworks React specifically.
+I am a senior software developer having more than 8 years of experience in full-stack development.
 
 ---
 
