@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Lambert+Miller.;)](https://git.io/typing-svg)
-
-
 I am a senior software developer having more than 8 years of experience in full-stack development.
 I already have experience working on a Saas platform, E-commerce, Dynamic website, One-pager, WordPress, architecting small to enterprise-level applications and Mobile application. I can create different test plans and test cases adapting to different kinds of projects..
 
